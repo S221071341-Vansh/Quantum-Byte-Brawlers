@@ -7,17 +7,16 @@ The FPGA Environment Quality Monitoring System is a project developed by Team Qu
 
 ### Team Members
 
-- **Project Lead:** [Your Name]
-- **Hardware Engineer:** [Team Member 1 Name]
-- **FPGA Programmer:** [Team Member 2 Name]
-- **Data Visualization Specialist:** [Team Member 3 Name]
-- **Documentation Manager:** [Team Member 4 Name]
+- **Vansh Khanna** 
+- **Sagar Gupta** 
+- **Chelsea Rajpal**
+- **Nitin Dogra** 
 
 ### Course Information
 
 - **Unit:** SIT329 - Advanced Embedded Systems
-- **Supervisor:** Dr. Ashish ([ashish@email.com](mailto:ashish@email.com))
-- **Assistant Supervisor:** Dr. Imali ([imali@email.com](mailto:imali@email.com))
+- **Supervisor:** Dr. Imali Das ([imali.dias@deakin.edu.au](mailto:imali.dias@deakin.edu.au)) 
+- **Assistant Supervisor:** Dr. Ashish Manchanda ([ashish.manchanda@deakin.edu.au](mailto:ashish.manchanda@deakin.edu.au))
 
 ### Project Overview
 
@@ -25,34 +24,35 @@ The FPGA Environment Quality Monitoring System is a collaborative effort by Team
 
 #### Components
 
-- FPGA (Field-Programmable Gate Array)
-- DHT22 Temperature and Humidity Sensors
-- Custom PCB (for sensor interfacing)
-- Data Visualization Software
+- **FPGA (Field-Programmable Gate Array):** The central hardware platform for data processing and control.
+- **DHT22 Temperature and Humidity Sensors:** Sensors for precise temperature and humidity data collection.
+- **Soil Moisture Sensors:** Additional sensors for comprehensive environmental monitoring.
+- **Data Visualization Software/Tools:** User-friendly interfaces for data analysis and representation.
 
 #### Project Tasks
 
 1. **Sensor Interfacing:**
-   - Connect DHT22 sensors to a custom PCB for precise data acquisition.
+   - Connect DHT22 sensors and soil moisture sensors to a custom PCB along with FPGA for precise and synchronized data acquisition.
 
 2. **FPGA Programming:**
-   - Develop FPGA code for interfacing with DHT22 sensors.
-   - Implement a state machine for data communication.
-   - Ensure real-time data collection and transmission.
+   - Develop FPGA code to interface seamlessly with DHT22 and soil moisture sensors.
+   - Implement a state machine for efficient data communication, ensuring real-time data collection and transmission.
 
 3. **Data Visualization:**
-   - Create a user-friendly interface for data visualization.
-   - Develop graphs and charts to represent temperature and humidity data.
+   - Create user-friendly and intuitive designs for data visualization tools.
+   - Develop graphs and charts that effectively represent temperature, humidity, and soil moisture data.
 
 4. **Documentation:**
-   - Maintain detailed project documentation, including design specifications and code comments.
+   - Maintain meticulous project documentation, including comprehensive design specifications and well-commented code for reference.
+
+This project brings together a diverse set of skills to address the challenge of environmental monitoring using FPGA technology. We are excited to deliver a reliable and efficient solution to meet the needs of various applications, from agriculture to climate monitoring.
 
 ### Contact Information
 
 For inquiries related to the project or collaboration opportunities, please contact our project supervisors:
-- **Dr. Ashish**
-  - Email: [ashish@email.com](mailto:ashish@email.com)
-- **Dr. Imali**
-  - Email: [imali@email.com](mailto:imali@email.com)
+- **Dr. Imali Das**
+  - Email: [imali.dias@deakin.edu.au](mailto:imali.dias@deakin.edu.au)
+- **Dr. Ashish Manchanda**
+  - Email: [ashish.manchanda@deakin.edu.au](mailto:ashish.manchanda@deakin.edu.au)
 
 Feel free to reach out to any team member for specific project details or contributions. We look forward to sharing our progress and findings in the field of FPGA-based environmental monitoring.
