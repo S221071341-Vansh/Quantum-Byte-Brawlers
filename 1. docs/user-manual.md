@@ -1,1 +1,1 @@
-# User Manual
+# User manual for operating the system
